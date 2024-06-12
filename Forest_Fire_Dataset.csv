@@ -1,0 +1,164 @@
+Wildlife,City,Month,Oxygen level,Temperature,Humidity,Wind speed,Drought,Topography,Intensity,Possibility of fire
+250,"New York, USA",January,Low,Low,High,Low,High,High,Low,Low
+150,"Los Angeles, USA",February,High,High,Low,High,Low,Low,High,High
+200,"Chicago, USA",March,Low,Low,High,High,High,High,Low,Low
+100,"Houston, USA",April,High,High,Low,High,Low,Low,High,High
+97,"Phoenix, USA",May,High,High,High,Low,Low,High,High,High
+160,"London, UK",June,Low,Low,High,Low,High,Low,Low,Low
+230,"Paris, France",July,High,High,Low,High,Low,High,High,High
+786,"Berlin, Germany",August,Low,Low,High,High,High,Low,Low,Low
+548,"Rome, Italy",September,High,High,Low,High,Low,Low,High,High
+659,"Madrid, Spain",October,High,High,Low,High,Low,High,High,High
+245,"Tokyo, Japan",November,Low,Low,High,Low,High,Low,Low,Low
+156,"Sydney, Australia",December,High,High,Low,High,Low,Low,High,High
+758,"New Delhi, India",January,Low,Low,High,Low,High,Low,Low,Low
+568,"Mumbai, India",February,High,High,Low,High,Low,Low,High,High
+954,"Bangalore, India",March,High,Low,High,High,High,Low,High,Low
+125,"Kolkata, India",April,High,High,Low,High,Low,High,High,High
+324,"Chennai, India",May,High,High,High,Low,Low,High,High,High
+565,"Beijing, China",June,Low,Low,High,Low,High,High,Low,Low
+215,"Shanghai, China",July,High,High,Low,High,Low,Low,High,High
+246,"Guangzhou, China",August,Low,Low,High,High,High,Low,Low,Low
+215,"Shenzhen, China",September,High,High,Low,High,Low,Low,High,High
+215,"Tokyo, Japan",October,Low,Low,High,Low,High,High,Low,Low
+458,"Sydney, Australia",November,High,High,Low,High,Low,Low,High,High
+100,"Melbourne, Australia",December,High,High,Low,High,Low,Low,High,High
+102,"Berlin, Germany",January,Low,Low,High,Low,High,High,Low,Low
+165,"Rome, Italy",February,High,High,Low,High,Low,Low,High,High
+485,"Madrid, Spain",March,Low,Low,High,High,High,High,Low,Low
+200,"London, UK",April,High,High,Low,High,Low,Low,High,High
+945,"Paris, France",May,Low,Low,High,Low,High,Low,Low,Low
+658,"Moscow, Russia",June,High,High,Low,High,Low,Low,High,High
+512,"St. Petersburg, Russia",July,High,Low,High,High,High,High,Low,Low
+354,"Novosibirsk, Russia",August,High,High,Low,High,Low,Low,High,High
+125,"Yekaterinburg, Russia",September,Low,Low,High,High,High,High,Low,Low
+785,"Chelyabinsk, Russia",October,High,High,Low,High,Low,Low,High,High
+456,"Omsk, Russia",November,Low,Low,High,High,High,Low,Low,Low
+548,"Kazan, Russia",December,High,High,Low,High,Low,High,High,High
+985,"Rio de Janeiro, Brazil",January,High,High,Low,High,Low,Low,High,High
+215,"Mexico City, Mexico",February,High,High,Low,High,Low,High,High,High
+778,"Buenos Aires, Argentina",March,Low,Low,High,Low,High,Low,Low,Low
+458,"Bogotá, Colombia",April,High,High,Low,High,Low,Low,High,High
+954,"Lima, Peru",May,Low,Low,High,Low,High,High,Low,Low
+215,"Cairo, Egypt",June,High,High,Low,High,Low,Low,High,High
+235,"Lagos, Nigeria",July,High,High,Low,High,Low,Low,High,High
+214,"Kinshasa, Democratic Republic of the Congo",August,High,High,Low,High,Low,Low,High,High
+268,"Johannesburg, South Africa",September,High,High,Low,High,Low,High,High,High
+247,"Osaka, Japan",October,Low,Low,High,Low,High,Low,Low,Low
+596,"Perth, Australia",November,High,High,Low,High,Low,High,High,High
+548,"Brisbane, Australia",December,High,High,Low,High,Low,Low,High,High
+521,"Santiago, Chile",January,Low,Low,High,Low,High,High,Low,Low
+523,"Caracas, Venezuela",February,High,High,Low,High,Low,Low,High,High
+785,"Bogotá, Colombia",March,Low,Low,High,Low,High,Low,Low,Low
+658,"Lima, Peru",April,High,High,Low,High,Low,High,High,High
+451,"Quito, Ecuador",May,Low,Low,High,Low,High,Low,Low,Low
+235,"Asunción, Paraguay",June,High,High,Low,High,Low,Low,High,High
+652,"Montevideo, Uruguay",July,Low,Low,High,Low,High,High,Low,Low
+186,"La Paz, Bolivia",August,High,High,Low,High,Low,Low,High,High
+325,"Georgetown, Guyana",September,Low,Low,High,Low,High,Low,Low,Low
+415,"Paramaribo, Suriname",October,High,High,Low,High,Low,High,High,High
+287,"Cayenne, French Guiana",November,Low,Low,High,Low,High,Low,Low,Low
+541,"Port of Spain, Trinidad and Tobago",December,High,High,Low,High,Low,Low,High,High
+652,"Warsaw, Poland",January,Low,Low,High,Low,High,Low,Low,Low
+152,"Prague, Czech Republic",February,High,High,Low,High,Low,High,High,High
+451,"Budapest, Hungary",March,Low,Low,High,Low,High,Low,Low,Low
+215,"Bucharest, Romania",April,High,High,Low,High,Low,Low,High,High
+785,"Sofia, Bulgaria",May,Low,Low,High,Low,High,High,Low,Low
+154,"Zagreb, Croatia",June,High,High,Low,High,Low,High,High,High
+125,"Belgrade, Serbia",July,Low,Low,High,Low,High,Low,Low,Low
+124,"Skopje, North Macedonia",August,High,High,Low,High,Low,High,High,High
+685,"Tirana, Albania",September,Low,Low,High,Low,High,High,Low,Low
+258,"Podgorica, Montenegro",October,High,High,Low,High,Low,Low,High,High
+315,"Pristina, Kosovo",November,Low,Low,High,Low,High,Low,Low,Low
+265,"Sarajevo, Bosnia and Herzegovina",December,High,High,Low,High,Low,Low,High,High
+125,"Lisbon, Portugal",January,Low,Low,High,Low,High,High,Low,Low
+584,"Madrid, Spain",February,High,High,Low,High,Low,High,High,High
+658,"Barcelona, Spain",March,Low,Low,High,Low,High,Low,Low,Low
+952,"Rome, Italy",April,High,High,Low,High,Low,Low,High,High
+321,"Milan, Italy",May,High,Low,High,Low,High,High,Low,Low
+542,"Berlin, Germany",June,High,High,Low,High,Low,Low,High,High
+265,"Frankfurt, Germany",July,Low,Low,High,Low,High,Low,Low,Low
+458,"Amsterdam, Netherlands",January,Low,Low,High,Low,High,High,Low,Low
+958,"Brussels, Belgium",February,Low,High,Low,High,Low,Low,High,High
+125,"Copenhagen, Denmark",March,Low,Low,High,Low,High,High,Low,Low
+652,"Oslo, Norway",April,High,High,Low,High,Low,Low,High,High
+321,"Stockholm, Sweden",May,Low,Low,High,Low,High,High,Low,Low
+865,"Helsinki, Finland",June,High,High,Low,High,Low,High,High,High
+888,"Moscow, Russia",July,Low,Low,High,Low,High,High,Low,Low
+954,"St. Petersburg, Russia",August,High,High,Low,High,Low,High,High,High
+652,"Novosibirsk, Russia",September,Low,Low,High,Low,High,Low,Low,Low
+451,"Yekaterinburg, Russia",October,High,High,Low,High,Low,Low,High,High
+258,"Chelyabinsk, Russia",November,Low,Low,High,Low,High,High,Low,Low
+315,"Omsk, Russia",December,High,High,Low,High,Low,Low,High,High
+785,"Toronto, Canada",January,Low,Low,High,Low,High,High,Low,Low
+654,"Montreal, Canada",February,High,High,Low,High,Low,Low,High,High
+210,"Vancouver, Canada",March,Low,Low,High,Low,High,High,Low,Low
+100,"Calgary, Canada",April,High,High,Low,High,Low,Low,High,High
+2032,"Edmonton, Canada",May,Low,Low,High,Low,High,Low,Low,Low
+125,"Winnipeg, Canada",June,High,High,Low,High,Low,High,High,High
+149,"Ottawa, Canada",July,Low,Low,High,Low,High,Low,Low,Low
+845,"Quebec City, Canada",August,High,High,Low,High,Low,Low,High,High
+654,"Halifax, Canada",September,Low,Low,High,Low,High,Low,Low,Low
+842,"St. John's, Canada",October,High,High,Low,High,Low,Low,High,High
+652,"Whitehorse, Canada",November,Low,Low,High,Low,High,Low,Low,Low
+1027,"Yellowknife, Canada",December,High,High,Low,High,Low,Low,High,High
+2001,"Anchorage, United States",January,Low,Low,High,Low,High,High,Low,Low
+254,"Juneau, United States",February,High,High,Low,High,Low,Low,High,High
+215,"Honolulu, United States",March,Low,Low,High,Low,High,Low,Low,Low
+485,"San Francisco, United States",April,High,High,Low,High,Low,Low,High,High
+658,"Los Angeles, United States",May,Low,Low,High,Low,High,Low,Low,Low
+254,"Phoenix, United States",June,High,High,Low,High,Low,High,High,High
+658,"Denver, United States",July,Low,Low,High,Low,High,Low,Low,Low
+695,"Minneapolis, United States",August,High,High,Low,High,Low,High,High,High
+874,"Chicago, United States",September,Low,Low,High,Low,High,Low,Low,Low
+541,"Detroit, United States",October,High,High,Low,High,Low,Low,High,High
+254,"New York City, United States",November,Low,Low,High,Low,High,High,Low,Low
+236,"Boston, United States",December,High,High,Low,High,Low,Low,High,High
+541,"London, United Kingdom",January,High,Low,High,Low,High,Low,Low,Low
+258,"Manchester, United Kingdom",February,High,High,Low,High,Low,Low,High,High
+954,"Birmingham, United Kingdom",March,Low,Low,High,Low,High,Low,Low,Low
+356,"Glasgow, United Kingdom",April,High,High,Low,High,Low,Low,High,High
+852,"Edinburgh, United Kingdom",May,Low,Low,High,Low,High,High,Low,Low
+458,"Cardiff, United Kingdom",June,High,High,Low,High,Low,Low,High,High
+655,"Belfast, United Kingdom",July,Low,Low,High,Low,High,Low,Low,Low
+954,"Dublin, Ireland",August,High,High,Low,High,Low,Low,High,High
+215,"Cork, Ireland",September,Low,Low,High,Low,High,Low,Low,Low
+541,"Galway, Ireland",October,High,High,Low,High,Low,Low,High,High
+258,"Limerick, Ireland",November,Low,Low,High,Low,High,Low,Low,Low
+654,"Waterford, Ireland",December,High,High,Low,High,Low,Low,High,High
+154,"Sydney, Australia",January,Low,Low,High,Low,High,High,Low,Low
+845,"Melbourne, Australia",February,High,High,Low,High,Low,Low,High,High
+156,"Brisbane, Australia",March,Low,Low,High,Low,High,Low,Low,Low
+546,"Perth, Australia",April,High,High,Low,High,Low,Low,High,High
+584,"Adelaide, Australia",May,Low,Low,High,Low,High,Low,Low,Low
+658,"Canberra, Australia",June,High,High,Low,High,Low,High,High,High
+521,"Darwin, Australia",July,Low,Low,High,Low,High,High,High ,High
+654,"Hobart, Australia",August,High,High,Low,High,Low,High,High,High
+254,"Wellington, New Zealand",September,Low,Low,High,Low,High,Low,Low,Low
+845,"Auckland, New Zealand",October,High,High,Low,High,Low,Low,High,High
+245,"Christchurch, New Zealand",November,Low,Low,High,Low,High,High,Low,Low
+654,"Hamilton, New Zealand",December,High,High,Low,High,Low,Low,High,High
+125,"Cape Town, South Africa",January,Low,Low,High,Low,High,Low,Low,Low
+1023,"Durban, South Africa",February,High,High,Low,High,Low,High,High,High
+254,"Johannesburg, South Africa",March,Low,Low,High,Low,High,Low,Low,Low
+158,"Pretoria, South Africa",April,High,High,Low,High,Low,Low,High,High
+7854,"Port Elizabeth, South Africa",May,Low,Low,High,Low,High,High,Low,Low
+954,"East London, South Africa",June,High,High,Low,High,Low,Low,High,High
+562,"Bloemfontein, South Africa",July,Low,Low,High,Low,High,High,Low,Low
+512,"Nelspruit, South Africa",August,High,High,Low,High,Low,Low,High,High
+100,"Kimberley, South Africa",September,Low,Low,High,Low,High,Low,Low,Low
+69,"Pietermaritzburg, South Africa",October,High,High,Low,High,Low,High,High,High
+548,"Polokwane, South Africa",November,Low,Low,High,Low,High,High,Low,Low
+621,"Mafikeng, South Africa",December,High,High,Low,High,Low,Low,High,High
+522,"Oslo, Norway",January,Low,Low,High,Low,High,High,Low,Low
+125,"Stockholm, Sweden",February,High,High,Low,High,Low,Low,High,High
+655,"Copenhagen, Denmark",March,Low,Low,High,Low,High,Low,Low,Low
+124,"Helsinki, Finland",April,High,High,Low,High,Low,High,High,High
+685,"Reykjavik, Iceland",May,Low,Low,High,Low,High,Low,Low,Low
+257,"Nuuk, Greenland",June,High,High,Low,High,Low,Low,High,High
+596,"Tórshavn, Faroe Islands",July,Low,Low,High,Low,High,High,Low,Low
+352,"Longyearbyen, Svalbard and Jan Mayen",August,High,High,Low,High,Low,Low,High,High
+652,"Mariehamn, Åland Islands",September,Low,Low,High,Low,High,Low,Low,Low
+456,Gibraltar,October,High,High,Low,High,Low,High,High,High
+485,"St. Helier, Jersey",November,Low,Low,High,Low,High,Low,Low,Low
+658,"St. Peter Port, Guernsey",December,High,High,Low,High,Low,High,High,High

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Wildlife Representation</title>
+  <link rel="icon" href="https://image.flaticon.com/icons/svg/2950/2950411.svg" type="image/icon type">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="topnav">
+    <a href="{{ url_for('wildlife') }}" >Analysis</a>
+    <a href="{{ url_for('safety') }}">Safety</a>
+    <a href="{{ url_for('forest_fire') }}">Prediction</a>
+  </div>
+    <div class="input-container" style="color: wheat;">
+        <label for="city" >Enter City:</label>
+        <input type="text" id="city" name="city">
+        <button id="submitBtn">Submit</button>
+      </div>
+      <div class="chart-container">
+        <canvas id="pieChart"></canvas>
+      </div>
+      <script src="script.js"></script>
+</body>
+</html>

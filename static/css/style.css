@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
+.submain{
+    display: flex;
+    gap: 200px;
+    color: white;
+}
+body{
+    /* display: flex; */
+    background-image:url(./images/bg.jpg);
+    background-size: cover;
+    font-family: 'Chelsea Market', cursive;
+    margin-left: 0;
+    width: 100vw;
+
+
+    
+}
+.prediction{
+    margin-left: 75px;
+}
+.topnav{
+    display: flex;
+    margin-left: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.main{
+    width: 100vw;
+
+}
+
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: #D46731;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+.sizes{
+    width:1500px;
+    height: 40px;
+    font-size: 23px;
+}
+.sizes2{
+    width:1500px;
+    height: 40px;
+    font-size: 23px;
+    margin-right: 150px;
+}
+
+
+.button{
+    display: flex;
+    margin-top: 16%;
+    width: 100px;
+    justify-content: center;
+    margin-left: 45%;
+    padding: 20px 62px;
+    color: white;
+    font-size: 22px;
+}
+.cont{
+    display: grid;
+}
+
+.cardbg{
+    background-color: rgba(0, 0, 0, 0.397);
+    color: white;
+    padding:30px;
+}
+
+button{
+    outline: none;
+    border: none;
+    padding: 5px 30px;
+    border-radius: 5px;
+    color: white;
+    background: #D46731;
+}
+.prediction{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+
+@media screen and (min-width: 768px) {
+    /* Add your laptop/desktop specific styles here */
+    body {
+        font-size: 16px;
+    }
+
+    /* Other styles for larger screens */
+}
